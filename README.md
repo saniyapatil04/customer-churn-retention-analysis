@@ -104,8 +104,8 @@ customer-churn-retention-analysis/
 ├── Python analysis file
 ├── SQL analysis file
 ├── customer_churn_clean.csv
-├── dashboard_overview.png
-├── churn_drivers_risk.png
+├── overview.png
+├── Churn Drive and risk analysis.png
 └── README.md
 ```
 
