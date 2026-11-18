@@ -117,7 +117,7 @@ customer-churn-retention-analysis/
 
 ### Churn Drivers & Risk Analysis
 
-![Churn Drivers & Risk Analysis](Churn Drive and risk analysis.png)
+![Churn Drivers & Risk Analysis](churn_driver_risk.png)
 
 ## Conclusion
 
