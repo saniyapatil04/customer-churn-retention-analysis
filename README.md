@@ -113,11 +113,11 @@ customer-churn-retention-analysis/
 
 ### Customer Churn Overview
 
-![ Overview](dashboard_overview.png)
+![Customer Churn Overview](Overview.png)
 
 ### Churn Drivers & Risk Analysis
 
-![Churn Drivers & Risk Analysis](churn_drivers_risk.png)
+![Churn Drivers & Risk Analysis](Churn Drive and risk analysis.png)
 
 ## Conclusion
 
